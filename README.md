@@ -29,4 +29,4 @@ After, you have a trained network (I already uploaded my weights) these are some
 
 - Predict characters & digits on a plain white sheet:
 
-![Digits Chars](media/pred_3.png)
+![Digits Chars](media/pred_4.png)
