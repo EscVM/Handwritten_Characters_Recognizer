@@ -15,5 +15,11 @@ Start cloning this repository:
    
 than start [jupyter](https://jupyter.org/) and open 'handwritten_recognizer.ipynb' file. There, you'll find all the information that you need. Enjoy ;)
 
-# Some examples
+# Examples
+
+After, you have a trained network (I already uploaded my weights) these are some examples of what you can do:
+
+- Predict digits on a plain white sheet:
+
+![Digits Plain Text](media/number_test.jpg)
 
